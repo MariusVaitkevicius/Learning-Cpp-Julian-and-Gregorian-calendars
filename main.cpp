@@ -2,7 +2,7 @@
 using namespace std;
 
    // Every fourth 2016, 2020 according to Julian calendar: 365.25 d. -> 365.2496 d.
-   // Gregory calendar: 1582 the difference was 10 days. since 1583
+   // Gregorian calendar: 1582 the difference was 10 days. since 1583
    // 1600 leap year.
       // 1700 not leap year.
       // 1800 not leap year.
